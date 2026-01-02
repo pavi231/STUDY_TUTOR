@@ -3,3 +3,6 @@ requests
 gtts
 opencv-python-headless
 google-generativeai
+youtube-transcript-api
+numpy
+pillow
