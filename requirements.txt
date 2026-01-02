@@ -1,8 +1,5 @@
 streamlit
-opencv-python-headless
-numpy
-pillow
-google-generativeai
-youtube-transcript-api
 requests
 gtts
+opencv-python-headless
+google-generativeai
